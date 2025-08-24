@@ -28,11 +28,27 @@ Este proyecto consiste en un **Dashboard interactivo de Ventas**, desarrollado e
 ### 🌙 Versión Dark  
 <img width="800" alt="DashboardDark-General" src="https://github.com/user-attachments/assets/31b29d40-a311-4dc5-ba04-88f14a4b2226" />
 
-### 🔄 Versión Dark con Interactividad  
-<img width="400" alt="DashboardDark-Interacción" src="https://github.com/user-attachments/assets/5f108e85-46a0-4d33-8c3c-f331ee8b913d" />
+<br>
+<br>
+<br>
+<br>
 
-### 🖱️ Ejemplo de otra Interacción  
-<img width="400" alt="DashboardDark-Interacción2" src="https://github.com/user-attachments/assets/929e33ea-5c8a-4b5a-b2e7-c3ed7b124666" />
+<table>
+  <tr>
+    <td style="text-align:center;">
+      <p>🔄 Versión Dark con Interactividad</p>
+      <img width="400" alt="DashboardDark-Interacción" src="https://github.com/user-attachments/assets/5f108e85-46a0-4d33-8c3c-f331ee8b913d" />
+    </td>
+    <td style="text-align:center;">
+      <p>🖱️ Ejemplo de otra Interacción</p>
+      <img width="400" alt="DashboardDark-Interacción2" src="https://github.com/user-attachments/assets/929e33ea-5c8a-4b5a-b2e7-c3ed7b124666" />
+    </td>
+  </tr>
+</table>
+
+<br>
+<br>
+
 
 ---
 
