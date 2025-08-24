@@ -23,16 +23,16 @@ Este proyecto consiste en un **Dashboard interactivo de Ventas**, desarrollado e
 ## 📸 Capturas del Dashboard  
 
 ### ☀️ Versión Light  
-![Dashboard Light](./vistas/DashboardVentas-Light.pdf)  
+<img width="800" alt="DashboardLight" src="https://github.com/user-attachments/assets/19021068-e570-48ab-a304-6d773cb27d82" />
 
 ### 🌙 Versión Dark  
-![Dashboard Dark](./vistas/DashboardVentas-Dark.pdf)  
+<img width="800" alt="DashboardDark-General" src="https://github.com/user-attachments/assets/31b29d40-a311-4dc5-ba04-88f14a4b2226" />
 
 ### 🔄 Versión Dark con Interactividad  
-![Dashboard Dark Interactivo](./vistas/DashboardVentas-Dark-Interactivo.pdf)  
+<img width="400" alt="DashboardDark-Interacción" src="https://github.com/user-attachments/assets/5f108e85-46a0-4d33-8c3c-f331ee8b913d" />
 
 ### 🖱️ Ejemplo de otra Interacción  
-![Otra interacción](./vistas/DashboardVentas-Dark-Interactivo2.pdf)  
+<img width="400" alt="DashboardDark-Interacción2" src="https://github.com/user-attachments/assets/929e33ea-5c8a-4b5a-b2e7-c3ed7b124666" />
 
 ---
 
