@@ -1,6 +1,6 @@
-# 📊 Semana Power BI de Hazlo con Excel y Proyectos Adicionales
+# 📊 Semana Power BI
 
-Este repositorio recopila los ejercicios y proyectos que realicé durante la **Semana Power BI de Hazlo con Excel**, así como proyectos adicionales en **Power BI**, aplicando técnicas de **Power Query, DAX y visualización de datos** para analizar ventas, productividad, transacciones financieras y desempeño por equipos y regiones.  
+Este repositorio recopila los ejercicios y proyectos que realicé durante la **Semana Power BI**, aplicando técnicas de **Power Query, DAX y visualización de datos** para analizar ventas, productividad, transacciones financieras y desempeño por equipos y regiones.  
 
 ---
 
