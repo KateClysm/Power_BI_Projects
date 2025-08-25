@@ -1,0 +1,1 @@
+# 💳 Dashboard de Resumen Financiero
