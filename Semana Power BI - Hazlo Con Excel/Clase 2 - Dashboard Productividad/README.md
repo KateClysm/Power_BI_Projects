@@ -27,15 +27,15 @@ Este proyecto consiste en un **Dashboard interactivo de Productividad**, desarro
 ## 📸 Capturas del Dashboard  
 
 ###  Vista General
-<img width="800" alt="DashboardLight" src="https://github.com/user-attachments/assets/72c6af59-e827-48ac-b56f-c09726aef7bb" />
+<img width="800" alt="Vista General" src="./Vistas IMG/Vista General.png" />
 <br>
 
 ###  Operador Seleccionado
-<img width="800" alt="DashboardDark-Operador" src="https://github.com/user-attachments/assets/79a8e01c-a4e3-46e5-aee7-e4c3ddf6062f" />
+<img width="800" alt="Operador Seleccionado" src="./Vistas IMG/Operador Seleccionado.png" />
 <br>
 
 ###  Mes Seleccionado
-<img width="800" alt="DashboardDark-Mes" src="https://github.com/user-attachments/assets/c330ebba-d2c6-47e3-a03e-92cbb2ffe252" />
+<img width="800" alt="Mes Seleccionado" src="./Vistas IMG/Mes Seleccionado.png" />
 <br>
 
 
