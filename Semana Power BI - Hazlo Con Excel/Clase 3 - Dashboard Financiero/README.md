@@ -31,12 +31,12 @@ Este proyecto consiste en un **Dashboard interactivo de Finanzas y Métodos de P
 <br>
 
 ###  Vista General
-<img width="800" alt="Vista General" src="https://github.com/user-attachments/assets/e1aa242b-775c-493c-9de8-ada0507a2c72" />
+<img width="800" alt="Vista General" src="./Vistas IMG/Vista General.png" />
 <br>
 <br>
 
 ###  Mes Seleccionado
-<img width="800" alt="Mes Seleccionado" src="https://github.com/user-attachments/assets/624ca6bf-f71f-479e-b187-559e5a85f5e1" />
+<img width="800" alt="Mes Seleccionado" src="./Vistas IMG/Mes Seleccionado.png" />
 <br>
 <br>
 <br>
@@ -45,11 +45,11 @@ Este proyecto consiste en un **Dashboard interactivo de Finanzas y Métodos de P
   <tr>
     <td style="text-align:center;">
       <p>Banco Seleccionado</p>
-      <img width="400" alt="Banco Seleccionado" src="https://github.com/user-attachments/assets/633f5248-48e4-4f14-8f77-0e724d9a56c3" />
+      <img width="400" alt="Banco Seleccionado" src="./Vistas IMG/Banco Seleccionado.png" />
     </td>
     <td style="text-align:center;">
       <p>Otro ejemplo</p>
-      <img width="400" alt="Banco Seleccionado 2" src="https://github.com/user-attachments/assets/db0f7ccb-6bd1-465f-aad3-b20145a94045" />
+      <img width="400" alt="Banco Seleccionado 2" src="./Vistas IMG/Banco Seleccionado (2).png" />
     </td>
   </tr>
 </table>
