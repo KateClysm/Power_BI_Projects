@@ -1,6 +1,6 @@
 # 📊 Dashboard de Ventas y Análisis de Margen
 
-Este repositorio recopila los ejercicios y visualizaciones que realicé en **Power BI** para analizar ventas, margen de utilidad y desempeño por equipos y regiones, aplicando **Power Query, DAX y visualización de datos** para obtener insights claros y accionables.  
+Dashboard interactivo con foco en ventas, margen de utilidad y desempeño por equipos y regiones, aplicando **Power Query, DAX y visualización de datos** para obtener insights claros y accionables.  
 
 ---
 
