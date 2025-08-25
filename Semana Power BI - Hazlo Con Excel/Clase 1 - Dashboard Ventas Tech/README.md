@@ -20,28 +20,29 @@ Este proyecto consiste en un **Dashboard interactivo de Ventas**, desarrollado e
 
 ---
 
+<br>
+<br>
+
 ## 📸 Capturas del Dashboard  
 
 ### ☀️ Versión Light  
-<img width="800" alt="DashboardLight" src="https://github.com/user-attachments/assets/19021068-e570-48ab-a304-6d773cb27d82" />
+<img width="800" alt="Version Light - Vista General" src="./Vistas IMG/Version Light - Vista General.png" />
 
 ### 🌙 Versión Dark  
-<img width="800" alt="DashboardDark-General" src="https://github.com/user-attachments/assets/31b29d40-a311-4dc5-ba04-88f14a4b2226" />
+<img width="800" alt="Vista General" src="./Vistas IMG/Vista General.png" />
 
-<br>
-<br>
 <br>
 <br>
 
 <table>
   <tr>
     <td style="text-align:center;">
-      <p>🔄 Versión Dark con Interactividad</p>
-      <img width="400" alt="DashboardDark-Interacción" src="https://github.com/user-attachments/assets/5f108e85-46a0-4d33-8c3c-f331ee8b913d" />
+      <p>Añio Seleccionado</p>
+      <img width="400" alt="Anio Seleccionado" src="./Vistas IMG/Anio Seleccionado.png" />
     </td>
     <td style="text-align:center;">
-      <p>🖱️ Ejemplo de otra Interacción</p>
-      <img width="400" alt="DashboardDark-Interacción2" src="https://github.com/user-attachments/assets/929e33ea-5c8a-4b5a-b2e7-c3ed7b124666" />
+      <p>Marca Seleccionada</p>
+      <img width="400" alt="Marca Seleccionada" src="./Vistas IMG/Marca Seleccionada.png" />
     </td>
   </tr>
 </table>
