@@ -25,6 +25,39 @@ Este dashboard fue elaborado a partir de un **dataset ficticio** proporcionado d
 
 <br/>
 
+## 🖼️ Capturas del Dashboard  
+
+<table>
+  <tr>
+    <td align="center">
+      <p>🏠 Home Page</p>
+      <img width="600" src="./images/vistas/FAST_homepage.jpg" alt="Home Page"/>
+    </td>
+    <td align="center">
+      <p>🌍 Overall Dashboard</p>
+      <img width="600" src="./images/vistas/FAST_overall.jpg" alt="Overall Dashboard"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <p>💰 Revenue Dashboard</p>
+      <img width="600" src="./images/vistas/FAST_revenue.jpg" alt="Revenue Dashboard"/>
+    </td>
+    <td align="center">
+      <p>❌ Cancellation Dashboard</p>
+      <img width="600" src="./images/vistas/FAST_cancellation.jpg" alt="Cancellation Dashboard"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <p>🚙 Vehicle Dashboard</p>
+      <img width="600" src="./images/vistas/FAST_vehicle.jpg" alt="Vehicle Dashboard"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
 ## Habilidades y herramientas aplicadas  
 
 ### 🧮 Power Query   
@@ -119,39 +152,6 @@ El dashboard contiene **cinco secciones principales**, cada una diseñada con un
 - Profundicé en la **creación de dashboards interactivos y visualmente coherentes**.  
 - Practiqué el uso de **Figma** para el diseño UI/UX dentro de Power BI.  
 - Apliqué criterios de **data storytelling**, combinando claridad visual con profundidad analítica.  
-
-<br/>
-
-## 🖼️ Capturas del Dashboard  
-
-<table>
-  <tr>
-    <td align="center">
-      <p>🏠 Home Page</p>
-      <img width="400" src="./images/vistas/FAST_homepage.jpg" alt="Home Page"/>
-    </td>
-    <td align="center">
-      <p>🌍 Overall Dashboard</p>
-      <img width="400" src="./images/vistas/FAST_overall.jpg" alt="Overall Dashboard"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <p>💰 Revenue Dashboard</p>
-      <img width="400" src="./images/vistas/FAST_revenue.jpg" alt="Revenue Dashboard"/>
-    </td>
-    <td align="center">
-      <p>❌ Cancellation Dashboard</p>
-      <img width="400" src="./images/vistas/FAST_cancellation.jpg" alt="Cancellation Dashboard"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <p>🚙 Vehicle Dashboard</p>
-      <img width="400" src="./images/vistas/FAST_vehicle.jpg" alt="Vehicle Dashboard"/>
-    </td>
-  </tr>
-</table>
 
 <br/>
 

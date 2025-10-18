@@ -50,27 +50,27 @@ Este repositorio recopila los ejercicios y proyectos que realicé durante la **S
   <tr>
     <td style="text-align:center;">
       <p>Dashboard Ventas Dark</p>
-      <img width="400" alt="Dashboard Ventas" src="./Vistas/Ventas - Version Dark - Vista General.png" />
+      <img width="600" alt="Dashboard Ventas" src="./Vistas/Ventas - Version Dark - Vista General.png" />
     </td>
     <td style="text-align:center;">
       <p>Dashboard Ventas Light</p>
-      <img width="400" alt="Dashboard Ventas Light" src="./Vistas/Ventas - Version Light - Vista General.png" />
+      <img width="600" alt="Dashboard Ventas Light" src="./Vistas/Ventas - Version Light - Vista General.png" />
     </td>
   </tr>
   <tr>
     <td style="text-align:center;">
       <p>Dashboard Bancario</p>
-      <img width="400" alt="Dashboard Bancario" src="./Vistas/Bancario - Vista General.png" />
+      <img width="600" alt="Dashboard Bancario" src="./Vistas/Bancario - Vista General.png" />
     </td>
     <td style="text-align:center;">
       <p>Dashboard Financiero</p>
-      <img width="400" alt="Resumen Financiero" src="./Vistas/Financiero - Vista General.png" />
+      <img width="600" alt="Resumen Financiero" src="./Vistas/Financiero - Vista General.png" />
     </td>
   </tr>
   <tr>
     <td style="text-align:center;">
       <p>Dashboard Productividad</p>
-      <img width="400" alt="Dashboard Productividad" src="./Vistas/Productividad - Vista General.png" />
+      <img width="600" alt="Dashboard Productividad" src="./Vistas/Productividad - Vista General.png" />
     </td>
   </tr>
 </table>
@@ -84,4 +84,14 @@ Este repositorio recopila los ejercicios y proyectos que realicé durante la **S
 - **Power Query**  
 - **DAX**  
 - **Excel**  
-- **Figma**  
+- **Figma**
+
+<br/>
+
+## Créditos 
+
+- Los dashboards fueron diseñados, desarrollados y documentados íntegramente por **Maria Monchot**, con fines de aprendizaje y demostración de habilidades analíticas y de visualización en Power BI.  
+- ✅ El uso de los archivos Excel y CSV es totalmente abierto al público y se pueden utilizar.
+- 🚫 No se consiente la copia o réplica de ninguno de estos dashboards.
+
+<br/>
