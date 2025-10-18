@@ -40,6 +40,10 @@ Cada carpeta contiene dashboards completos, datasets ficticios, medidas DAX, tra
       <p>Transporte</p>
       <img width="200" height="113" src="Artech Power BI/FAST Servicio de Transporte/images/vistas/FAST_overall.jpg" alt="FAST Home"/>
     </td>
+    <td align="center" width="200" height="113"></td>
+    <td align="center" width="200" height="113"></td>
+    <td align="center" width="200" height="113"></td>
+    <td align="center" width="200" height="113"></td>
   </tr>
 </table>
 
@@ -50,6 +54,10 @@ Cada carpeta contiene dashboards completos, datasets ficticios, medidas DAX, tra
       <p>📈 Proyecto 1</p>
       <img width="200" height="113" src="./PowerBI%20Fundamentals%20Santander%20Open%20Academy/Vistas/Proyecto1.png" alt="Proyecto 1"/>
     </td>
+    <td align="center" width="200" height="113"></td>
+    <td align="center" width="200" height="113"></td>
+    <td align="center" width="200" height="113"></td>
+    <td align="center" width="200" height="113"></td>
   </tr>
 </table>
 
