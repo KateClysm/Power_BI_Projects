@@ -155,7 +155,12 @@ El dashboard contiene **cinco secciones principales**, cada una diseñada con un
 
 <br/>
 
-## 📎 Créditos  
-
+## Créditos 
 Proyecto realizado con datos ficticios como parte de mi **Pasantía en análisis de datos en Artech**.  
-El dashboard fue diseñado, desarrollado y documentado íntegramente por **Maria Monchot**, con fines de aprendizaje y demostración de habilidades analíticas y de visualización en Power BI.  
+
+- Los dashboards fueron diseñados, desarrollados y documentados íntegramente por **Maria Monchot**, con fines de aprendizaje y demostración de habilidades analíticas y de visualización en Power BI.  
+- ✅ El uso de los archivos Excel y CSV es totalmente abierto al público y se pueden utilizar.
+- 🚫 No se consciente la copia o réplica de ninguno de estos dashboards.
+
+<br/>
+
