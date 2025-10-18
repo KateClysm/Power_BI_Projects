@@ -31,27 +31,27 @@ Este dashboard fue elaborado a partir de un **dataset ficticio** proporcionado d
   <tr>
     <td align="center">
       <p>🏠 Home Page</p>
-      <img width="400" src="./images/vistas/FAST_homepage.jpg" alt="Home Page"/>
+      <img width="600" src="./images/vistas/FAST_homepage.jpg" alt="Home Page"/>
     </td>
     <td align="center">
       <p>🌍 Overall Dashboard</p>
-      <img width="400" src="./images/vistas/FAST_overall.jpg" alt="Overall Dashboard"/>
+      <img width="600" src="./images/vistas/FAST_overall.jpg" alt="Overall Dashboard"/>
     </td>
   </tr>
   <tr>
     <td align="center">
       <p>💰 Revenue Dashboard</p>
-      <img width="400" src="./images/vistas/FAST_revenue.jpg" alt="Revenue Dashboard"/>
+      <img width="600" src="./images/vistas/FAST_revenue.jpg" alt="Revenue Dashboard"/>
     </td>
     <td align="center">
       <p>❌ Cancellation Dashboard</p>
-      <img width="400" src="./images/vistas/FAST_cancellation.jpg" alt="Cancellation Dashboard"/>
+      <img width="600" src="./images/vistas/FAST_cancellation.jpg" alt="Cancellation Dashboard"/>
     </td>
   </tr>
   <tr>
     <td align="center">
       <p>🚙 Vehicle Dashboard</p>
-      <img width="400" src="./images/vistas/FAST_vehicle.jpg" alt="Vehicle Dashboard"/>
+      <img width="600" src="./images/vistas/FAST_vehicle.jpg" alt="Vehicle Dashboard"/>
     </td>
   </tr>
 </table>
