@@ -4,9 +4,9 @@ Este proyecto presenta el análisis de **FAST**, una empresa ficticia que ofrece
 
 El objetivo fue **analizar y visualizar el rendimiento operativo, financiero y de satisfacción del servicio**, aplicando técnicas de **Power Query, DAX, modelado de datos y diseño visual** para construir un dashboard profesional, moderno e intuitivo.  
 
----
+<br/>
 
-## 🧭 Contexto del proyecto  
+## Contexto del proyecto  
 
 Este dashboard fue elaborado a partir de un **dataset ficticio** proporcionado durante mi **pasantía de datos en Artech**, y utiliza información simulada proveniente de la **India**.  
 
@@ -14,18 +14,18 @@ Este dashboard fue elaborado a partir de un **dataset ficticio** proporcionado d
 > 🗓️ Los datos corresponden al año **2024**  
 > 🗣️ El dashboard y sus secciones están completamente en inglés.  
 
----
+<br/>
 
-## 🧩 Objetivos del análisis  
+## Objetivos del análisis  
 
 - Comprender el **rendimiento general del negocio** (revenue, rides, ratings, cancelaciones).  
 - Analizar los **métodos de pago**, las **razones de cancelación** y su evolución en el tiempo.  
 - Evaluar la **eficiencia y desempeño de los vehículos** por tipo.  
 - Ofrecer un diseño **visual, atractivo y fácil de interpretar** para cualquier usuario, técnico o no técnico.  
 
----
+<br/>
 
-## 🚀 Habilidades y herramientas aplicadas  
+## Habilidades y herramientas aplicadas  
 
 ### 🧮 Power Query   
 - Estandarización y renombrado de columnas.  
@@ -54,18 +54,17 @@ Este dashboard fue elaborado a partir de un **dataset ficticio** proporcionado d
 - Creación del **logo y fondo principal (Home Page)**.  
 - Definición del **color palette** y estilo visual consistente.  
 
----
+<br/>
 
-## 🗂️ Estructura del dashboard  
+## Estructura del dashboard  
 
 El dashboard contiene **cinco secciones principales**, cada una diseñada con un propósito analítico específico y accesible mediante el menú de navegación interno:  
 
-### 🏠 Home Page  
+### Home Page  
 - Logo + fondo creados en **Figma**, 
-- Botones de navegación a las distintas secciones.   
----
+- Botones de navegación a las distintas secciones.
 
-### 🌍 Overall  
+### Overall  
 > *Visión general del negocio.*  
 - Filtro por mes del año 2024.  
 - Donut Charts:  
@@ -81,9 +80,7 @@ El dashboard contiene **cinco secciones principales**, cada una diseñada con un
   - Cancelled Rides.  
   - Cancellation Rate.  
 
----
-
-### 💰 Revenue  
+### Revenue  
 > *Análisis de ingresos y volumen de viajes en el tiempo.*  
 - KPIs:  
   - Total Revenue.  
@@ -91,9 +88,8 @@ El dashboard contiene **cinco secciones principales**, cada una diseñada con un
   - Avg Revenue per KM.  
 - Visual: **Revenue and Ride Volume Over Time** (Line & Clustered Column Chart).  
 
----
 
-### ❌ Cancellation  
+### Cancellation  
 > *Por qué y cuándo se cancelan los viajes.*  
 - KPIs:  
   - Total Rides.  
@@ -104,9 +100,8 @@ El dashboard contiene **cinco secciones principales**, cada una diseñada con un
   - Reasons for Driver Cancellation (Donut Chart).  
   - Reasons for Customer Cancellation (Donut Chart).  
 
----
 
-### 🚙 Vehicle  
+### Vehicle  
 > *Análisis de desempeño por tipo de vehículo.*  
 - KPIs:  
   - Avg Revenue per Ride.  
@@ -116,16 +111,16 @@ El dashboard contiene **cinco secciones principales**, cada una diseñada con un
   - Quantity of Vehicles by Vehicle Type (Clustered Bar Chart).  
   - Matrix: Vehicle Type | Avg Ride Value | Avg Ride Distance | Avg Driver Rating.  
 
----
+<br/>
 
-## 🧠 Insights y aprendizajes  
+## Insights y aprendizajes  
  
 - Fortalecí el uso de **DAX avanzado** para construir KPIs precisos dependientes del contexto.  
 - Profundicé en la **creación de dashboards interactivos y visualmente coherentes**.  
 - Practiqué el uso de **Figma** para el diseño UI/UX dentro de Power BI.  
 - Apliqué criterios de **data storytelling**, combinando claridad visual con profundidad analítica.  
 
----
+<br/>
 
 ## 🖼️ Capturas del Dashboard  
 
@@ -158,17 +153,7 @@ El dashboard contiene **cinco secciones principales**, cada una diseñada con un
   </tr>
 </table>
 
----
-
-## 🛠️ Tecnologías utilizadas  
-
-- **Power BI Desktop**  
-- **Power Query**  
-- **DAX (Data Analysis Expressions)**  
-- **Figma** (para diseño visual y logotipo)  
-- **CSV** (fuente de datos)  
-
----
+<br/>
 
 ## 📎 Créditos  
 
