@@ -43,6 +43,6 @@ Actualmente, el repositorio incluye el proyecto **FAST**, una solución analíti
 
 - Los dashboards fueron diseñados, desarrollados y documentados íntegramente por **Maria Monchot**, con fines de aprendizaje y demostración de habilidades analíticas y de visualización en Power BI.  
 - ✅ El uso de los archivos Excel y CSV es totalmente abierto al público y se pueden utilizar.
-- 🚫 No se consiente la copia o réplica de ninguno de estos dashboards.
+- 🚫 No se consciente la copia o réplica de ninguno de estos dashboards.
 
 <br/>
