@@ -1,11 +1,11 @@
-# 📁 Power_BI_Practices
+# 📁 Power BI Practices
 
 Repositorio que reúne **proyectos y ejercicios desarrollados en Power BI**, organizados por cursos, pasantías y prácticas personales.  
 Cada carpeta contiene dashboards completos, datasets ficticios, medidas DAX, transformaciones en Power Query y documentación detallada.
 
 <br/>
 
-## 🗂️ Estructura general del repositorio
+## Estructura general del repositorio
 
 | FUENTE | PROYECTOS REALIZADOS |
 |------|------------|
