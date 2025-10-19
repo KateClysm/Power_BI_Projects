@@ -13,15 +13,15 @@ Actualmente, el repositorio incluye el proyecto **FAST**, una solución analíti
   <tr>
     <td style="text-align:center;">
       <p>FAST Dashboard - Homepage</p>
-      <img width="400" alt="Dashboard Homepage" src="./FAST%20Servicio%20de%20Transporte/images/vistas/FAST_homepage.jpg" />
+      <img width="400" alt="Dashboard Homepage" src="./FAST_Servicio_de_Transporte/images/vistas/FAST_homepage.jpg" />
     </td>
     <td style="text-align:center;">
       <p>FAST Dashboard - Overall</p>
-      <img width="400" alt="Dashboard Overall" src="./FAST%20Servicio%20de%20Transporte/images/vistas/FAST_overall.jpg" />
+      <img width="400" alt="Dashboard Overall" src="./FAST_Servicio_de_Transporte/images/vistas/FAST_overall.jpg" />
     </td>
     <td style="text-align:center;">
       <p>FAST Dashboard - Revenue</p>
-      <img width="400" alt="Dashboard Revenue" src="./FAST%20Servicio%20de%20Transporte/images/vistas/FAST_revenue.jpg" />
+      <img width="400" alt="Dashboard Revenue" src="./FAST_Servicio_de_Transporte/images/vistas/FAST_revenue.jpg" />
     </td>
   </tr>
 </table>
