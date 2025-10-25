@@ -31,7 +31,7 @@ Este proyecto consiste en un **Dashboard interactivo de Finanzas y Métodos de P
 <br>
 
 ###  Vista General
-<img width="800" alt="Vista General" src="Vistas/General.png" />
+<img width="800" alt="Vista General" src="./Vistas/General.png" />
 <br>
 <br>
 
