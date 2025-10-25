@@ -1,4 +1,4 @@
-# 📁 Power BI Practices
+# 📁 Power BI Projects
 
 Repositorio que reúne **proyectos y ejercicios desarrollados en Power BI**, organizados por cursos, pasantías y prácticas personales.  
 Cada carpeta contiene dashboards completos, datasets ficticios, medidas DAX, transformaciones en Power Query y documentación detallada.
@@ -38,7 +38,7 @@ Cada carpeta contiene dashboards completos, datasets ficticios, medidas DAX, tra
   <tr>
     <td align="center">
       <p>Transporte</p>
-      <img width="200" height="113" src="./Artech_PowerBI/FAST_Servicio_de_Transporte/images/vistas/FAST_overall.jpg" alt="FAST Home"/>
+      <img width="200" height="113" src="Artech_PowerBI/FAST_Servicio_de_Transporte/images/vistas/FAST_overall.jpg" alt="FAST Home"/>
     </td>
   </tr>
 </table>
