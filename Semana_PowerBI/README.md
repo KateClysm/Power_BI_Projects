@@ -50,27 +50,27 @@ Este repositorio recopila los ejercicios y proyectos que realicé durante la **S
   <tr>
     <td style="text-align:center;">
       <p>Dashboard Ventas Dark</p>
-      <img width="600" alt="Dashboard Ventas" src="./Vistas/Ventas - Version Dark - Vista General.png" />
+      <img width="600" alt="Dashboard Ventas" src="./Vistas/Ventas_Dark.png" />
     </td>
     <td style="text-align:center;">
       <p>Dashboard Ventas Light</p>
-      <img width="600" alt="Dashboard Ventas Light" src="./Vistas/Ventas - Version Light - Vista General.png" />
+      <img width="600" alt="Dashboard Ventas Light" src="./Vistas/Ventas_Light.png" />
     </td>
   </tr>
   <tr>
     <td style="text-align:center;">
       <p>Dashboard Bancario</p>
-      <img width="600" alt="Dashboard Bancario" src="./Vistas/Bancario - Vista General.png" />
+      <img width="600" alt="Dashboard Bancario" src="./Vistas/Bancario.png" />
     </td>
     <td style="text-align:center;">
       <p>Dashboard Financiero</p>
-      <img width="600" alt="Resumen Financiero" src="./Vistas/Financiero - Vista General.png" />
+      <img width="600" alt="Resumen Financiero" src="./Vistas/Financiero.png" />
     </td>
   </tr>
   <tr>
     <td style="text-align:center;">
       <p>Dashboard Productividad</p>
-      <img width="600" alt="Dashboard Productividad" src="./Vistas/Productividad - Vista General.png" />
+      <img width="600" alt="Dashboard Productividad" src="./Vistas/Productividad" />
     </td>
   </tr>
 </table>
