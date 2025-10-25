@@ -31,8 +31,8 @@ Dashboard interactivo con foco en ventas, margen de utilidad y desempeño por eq
 ## 📸 Capturas de los dashboards
 
 
-
 <img width="800" alt="Vista General" src="./Vistas/General.png" />
+
 <br>
 <br>
 
