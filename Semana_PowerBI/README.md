@@ -70,7 +70,7 @@ Este repositorio recopila los ejercicios y proyectos que realicé durante la **S
   <tr>
     <td style="text-align:center;">
       <p>Dashboard Productividad</p>
-      <img width="600" alt="Dashboard Productividad" src="./Vistas/Productividad" />
+      <img width="600" alt="Dashboard Productividad" src="./Vistas/Productividad.png" />
     </td>
   </tr>
 </table>
