@@ -12,23 +12,23 @@ Cada carpeta contiene dashboards completos, datasets ficticios, medidas DAX, tra
   <tr>
     <td align="center">
       <p>Ventas Dark</p>
-      <img width="200" height="113" src="./Semana_PowerBI/Vistas/Ventas%20-%20Version%20Dark%20-%20Vista%20General.png" alt="Dashboard Ventas Dark"/>
+      <img width="200" height="113" src="./Semana_PowerBI/Dashboard_Ventas_Tech/Vistas IMG/Vista General.png" alt="Dashboard Ventas Dark"/>
     </td>
     <td align="center">
       <p>Ventas Light</p>
-      <img width="200" height="113" src="./Semana_PowerBI/Vistas/Ventas%20-%20Version%20Light%20-%20Vista%20General.png" alt="Dashboard Ventas Light"/>
+      <img width="200" height="113" src="./Semana_PowerBI/Dashboard_Ventas_Tech/Vistas IMG/Version Light - Vista General.png" alt="Dashboard Ventas Light"/>
     </td>
     <td align="center">
       <p>Bancario</p>
-      <img width="200" height="113" src="./Semana_PowerBI/Vistas/Bancario%20-%20Vista%20General.png" alt="Dashboard Bancario"/>
+      <img width="200" height="113" src="./Semana_PowerBI/Dashboard_Bancario/Vistas IMG/Vista General.png" alt="Dashboard Bancario"/>
     </td>
     <td align="center">
       <p>Financiero</p>
-      <img width="200" height="113" src="./Semana_PowerBI/Vistas/Financiero%20-%20Vista%20General.png" alt="Dashboard Financiero"/>
+      <img width="200" height="113" src="./Semana_PowerBI/Dashboard_Resumen_Financiero/Vistas IMG/Resumen Financiero.png" alt="Dashboard Financiero"/>
     </td>
     <td align="center">
       <p>Productividad</p>
-      <img width="200" height="113" src="./Semana_PowerBI/Vistas/Productividad%20-%20Vista%20General.png" alt="Dashboard Productividad"/>
+      <img width="200" height="113" src="./Semana_PowerBI/Dashboard_Productividad/Vistas IMG/Vista General.png" alt="Dashboard Productividad"/>
     </td>
   </tr>
 </table>
@@ -38,7 +38,7 @@ Cada carpeta contiene dashboards completos, datasets ficticios, medidas DAX, tra
   <tr>
     <td align="center">
       <p>Transporte</p>
-      <img width="200" height="113" src="Artech_PowerBI/FAST_Servicio_de_Transporte/images/vistas/FAST_overall.jpg" alt="FAST Home"/>
+      <img width="200" height="113" src="./Artech_PowerBI/FAST_Servicio_de_Transporte/images/vistas/FAST_overall.jpg" alt="FAST Home"/>
     </td>
   </tr>
 </table>
