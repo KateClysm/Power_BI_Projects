@@ -1,6 +1,6 @@
 # 📁 Power BI Projects
 
-Repositorio que reúne **proyectos y ejercicios desarrollados en Power BI**, organizados por cursos, pasantías y prácticas personales.  
+Repositorio que reúne **proyectos desarrollados en Power BI**, organizados por cursos, pasantías, prácticas profesionales y personales.  
 Cada carpeta contiene dashboards completos, datasets ficticios, medidas DAX, transformaciones en Power Query y documentación detallada.
 
 <br/>
