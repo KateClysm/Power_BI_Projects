@@ -26,26 +26,11 @@ Este proyecto consiste en un **Dashboard interactivo de Ventas**, desarrollado e
 ## 📸 Capturas del Dashboard  
 
 ### ☀️ Versión Light  
-<img width="800" alt="Version Light - Vista General" src="./Vistas IMG/Version Light - Vista General.png" />
+<img width="800" alt="Version Light - Vista General" src="./Vistas/General_Light.png" />
 
 ### 🌙 Versión Dark  
-<img width="800" alt="Vista General" src="./Vistas IMG/Vista General.png" />
+<img width="800" alt="Vista General" src="./Vistas/General.png" />
 
-<br>
-<br>
-
-<table>
-  <tr>
-    <td style="text-align:center;">
-      <p>Añio Seleccionado</p>
-      <img width="400" alt="Anio Seleccionado" src="./Vistas IMG/Anio Seleccionado.png" />
-    </td>
-    <td style="text-align:center;">
-      <p>Marca Seleccionada</p>
-      <img width="400" alt="Marca Seleccionada" src="./Vistas IMG/Marca Seleccionada.png" />
-    </td>
-  </tr>
-</table>
 
 <br>
 <br>

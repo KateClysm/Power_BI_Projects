@@ -32,30 +32,7 @@ Dashboard interactivo con foco en ventas, margen de utilidad y desempeño por eq
 
 
 
-<img width="800" alt="Vista General" src="./Vistas IMG/Vista General.png" />
-<br>
-<br>
-
-<table>
-  <tr>
-    <td style="text-align:center;">
-      <p>Año Seleccionado</p>
-      <img width="400" alt="Anio Seleccionado" src="./Vistas IMG/Anio Seleccionado.png" />
-    </td>
-    <td style="text-align:center;">
-      <p>Categoria Seleccionada</p>
-      <img width="400" alt="Categoria Seleccionada" src="./Vistas IMG/Categoria Seleccionada.png" />
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align:center;">
-      <p>Region Seleccionada</p>
-      <img width="400" alt="Region Seleccionada" src="./Vistas IMG/Region Seleccionada.png" />
-    </td>
-  </tr>
-  
-</table>
-
+<img width="800" alt="Vista General" src="./Vistas/General.png" />
 <br>
 <br>
 

@@ -27,15 +27,7 @@ Este proyecto consiste en un **Dashboard interactivo de Productividad**, desarro
 ## 📸 Capturas del Dashboard  
 
 ###  Vista General
-<img width="800" alt="Vista General" src="./Vistas IMG/Vista General.png" />
-<br>
-
-###  Operador Seleccionado
-<img width="800" alt="Operador Seleccionado" src="./Vistas IMG/Operador Seleccionado.png" />
-<br>
-
-###  Mes Seleccionado
-<img width="800" alt="Mes Seleccionado" src="./Vistas IMG/Mes Seleccionado.png" />
+<img width="800" alt="Vista General" src="./Vistas/General.png" />
 <br>
 
 
