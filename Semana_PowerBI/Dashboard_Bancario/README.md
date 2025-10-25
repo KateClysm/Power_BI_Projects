@@ -31,29 +31,7 @@ Este proyecto consiste en un **Dashboard interactivo de Finanzas y Métodos de P
 <br>
 
 ###  Vista General
-<img width="800" alt="Vista General" src="./Vistas IMG/Vista General.png" />
-<br>
-<br>
-
-###  Mes Seleccionado
-<img width="800" alt="Mes Seleccionado" src="./Vistas IMG/Mes Seleccionado.png" />
-<br>
-<br>
-<br>
-
-<table>
-  <tr>
-    <td style="text-align:center;">
-      <p>Banco Seleccionado</p>
-      <img width="400" alt="Banco Seleccionado" src="./Vistas IMG/Banco Seleccionado.png" />
-    </td>
-    <td style="text-align:center;">
-      <p>Otro ejemplo</p>
-      <img width="400" alt="Banco Seleccionado 2" src="./Vistas IMG/Banco Seleccionado (2).png" />
-    </td>
-  </tr>
-</table>
-
+<img width="800" alt="Vista General" src="Vistas/General.png" />
 <br>
 <br>
 
