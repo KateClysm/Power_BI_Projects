@@ -30,10 +30,6 @@ Este proyecto consiste en un **Dashboard interactivo de Productividad**, desarro
 <img width="800" alt="Vista General" src="./Vistas/General.png" />
 <br>
 
-
-<br>
-<br>
-
 ---
 
 ## 🛠️ Tecnologías utilizadas  
