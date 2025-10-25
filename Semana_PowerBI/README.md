@@ -74,7 +74,9 @@ Este repositorio recopila los ejercicios y proyectos que realicé durante la **S
   </tr>
 </table>
 
---- 
+
+<br>
+<br>
 
 
 ## 🛠️ Tecnologías utilizadas
