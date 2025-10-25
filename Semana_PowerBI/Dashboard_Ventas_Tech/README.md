@@ -25,11 +25,18 @@ Este proyecto consiste en un **Dashboard interactivo de Ventas**, desarrollado e
 
 ## 📸 Capturas del Dashboard  
 
-### ☀️ Versión Light  
-<img width="800" alt="Version Light - Vista General" src="./Vistas/General_Light.png" />
-
-### 🌙 Versión Dark  
-<img width="800" alt="Vista General" src="./Vistas/General.png" />
+<table>
+  <tr>
+    <td>
+      <p>☀️ Versión Light  </p>
+      <img width="450" alt="Version Light - Vista General" src="./Vistas/General_Light.png" />
+    </td>
+    <td>
+      <p>🌙 Versión Dark  </p>
+      <img width="450" alt="Vista General" src="./Vistas/General.png" />
+    </td>
+  </tr>
+</table>
 
 
 <br>
